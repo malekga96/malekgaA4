@@ -1,0 +1,8 @@
+{
+    "lunch": 
+      [
+          {"item": "Chicken Burger","price": "$6.00", "calories":"470 Cals"},
+          {"item": "Medium Pepperoni Pizza","price": "$5.00", "calories":"210/slice Cals"},
+          {"item": "1/2 Chicken","price": "$10.00", "calories":"760 Cals"}
+    ]
+  }

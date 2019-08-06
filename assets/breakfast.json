@@ -1,0 +1,8 @@
+{
+    "breakfast": 
+      [
+        {"item": "Pancakes","price": "$6.00", "calories":"220 Cals"},
+        {"item": "Egg McMuffin","price": "$4.00", "calories":"290 Cals"},
+        {"item": "Omelette","price": "$8.00", "calories":"840 Cals"}
+    ]
+  }

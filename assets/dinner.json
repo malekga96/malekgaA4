@@ -1,0 +1,8 @@
+{
+    "dinner": 
+      [
+          {"item": "Burrito","price": "$6.00", "calories":"326 Cals"},
+          {"item": "Lasagne","price": "$8.00", "calories":"284 Cals"},
+          {"item": "Cream of Broccoli","price": "$3.00", "calories":"140 Cals"}
+    ]
+  }
